@@ -21,9 +21,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Koleksiyonlar", "Koleksiyon
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{95324499-94A1-4A89-BE9A-C1659B937387}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2", "OOP2\OOP2.csproj", "{EC44BD36-9346-4027-A99B-E4FE8B9A6DA8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP2", "OOP2\OOP2.csproj", "{EC44BD36-9346-4027-A99B-E4FE8B9A6DA8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3", "OOP3\OOP3.csproj", "{8425A6F8-907A-4DAC-95EF-39CADE03EC81}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP3", "OOP3\OOP3.csproj", "{8425A6F8-907A-4DAC-95EF-39CADE03EC81}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{3805485A-8C70-4EC9-9F45-00BA61A22F36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionarycalisma", "Dictionarycalisma\Dictionarycalisma.csproj", "{BFC321F0-64B7-4774-B861-8883C8BDDB70}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +79,10 @@ Global
 		{8425A6F8-907A-4DAC-95EF-39CADE03EC81}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8425A6F8-907A-4DAC-95EF-39CADE03EC81}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8425A6F8-907A-4DAC-95EF-39CADE03EC81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFC321F0-64B7-4774-B861-8883C8BDDB70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFC321F0-64B7-4774-B861-8883C8BDDB70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFC321F0-64B7-4774-B861-8883C8BDDB70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFC321F0-64B7-4774-B861-8883C8BDDB70}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
